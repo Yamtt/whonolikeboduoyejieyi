@@ -100,7 +100,8 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 ### 其他插件相关         
 
 * [后台LuCI页面显示异常报错](./tips/luciViewBUG.md)
-* [网关代理"旁路由"下访问国内网站缓慢甚至失败](./tips/PangLuYouGNM.md)        
+* [网关代理"旁路由"下访问国内网站缓慢甚至失败](./tips/PangLuYouGNM.md)       
+* [LuCI21.02的多LAN口设置在哪里](./tips/luci21.02.md) 
 * [upnp相关问题整理](./tips/upnp.md)    
 * [NAT路由类型检测工具NatTypeTester](https://github.com/HMBSbige/NatTypeTester/releases)                            
 * [手动挂载移动硬盘/U盘](./tips/ManullyGuaZai.md)          
