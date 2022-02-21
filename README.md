@@ -25,7 +25,7 @@
 
 支持：所有主流设备（最精简固件基础上自由安装ipk）          
 
-* [ImmortalWrt试运营软件源](http://downloads.immortalwrt.org)                         
+* [ImmortalWrt试运营软件源](./ImmortalWrtSource.md)                         
 
 ## eSir专区
 
