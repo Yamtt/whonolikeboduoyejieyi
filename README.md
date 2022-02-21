@@ -1,7 +1,7 @@
 ![Logo](https://user-images.githubusercontent.com/73426989/151594301-448d5af3-f2cc-4ee1-83d8-6c501f4b57c6.png)
 
 # OpenWrt中文圈    
-有很多人天天都在焦虑，怕没得到，怕寂寞。            
+`有很多人天天都在焦虑，怕没得到，怕寂寞。——《士兵突击》`            
 
 ## OpenWrt_Pro专区    
 
