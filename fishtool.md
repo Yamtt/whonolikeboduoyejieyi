@@ -6,7 +6,8 @@
 
 ## 选择op分叉主体         
 
-推荐：[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)           
+推荐：[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)       
+备选：[Lienol/openwrt](https://github.com/Lienol/openwrt)           
 
 ## 需要手动添加ssrp、passwall、openclash等插件      
 
