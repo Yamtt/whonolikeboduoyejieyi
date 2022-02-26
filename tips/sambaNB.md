@@ -1,6 +1,6 @@
-![1](https://user-images.githubusercontent.com/73426989/150643067-a29f5351-f2ed-4227-b7f6-79e6a0e0e86e.png)
-            
-samba协议打造家庭影音库    
+# samba协议打造家庭影音库         
+
+![1](https://user-images.githubusercontent.com/73426989/150643067-a29f5351-f2ed-4227-b7f6-79e6a0e0e86e.png)       
 
 网络存储 > 网络共享          
 建议取消勾选“自动共享”              
