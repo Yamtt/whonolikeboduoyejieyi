@@ -11,7 +11,7 @@
 
 ## OpenWrt_mini专区             
 
-支持：x64           
+支持：x64 * r2c * r2s * r4s * rockpro64 * rock-pi-4 * orangepi-r1-plus * orangepi-r1-plus-lts          
 
 * [OpenWrt_mini](https://t.me/openwrt_m)         
 
