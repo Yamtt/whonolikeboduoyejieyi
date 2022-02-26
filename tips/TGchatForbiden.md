@@ -1,3 +1,5 @@
+# 电报被禁止发消息
+
 [视频](https://user-images.githubusercontent.com/73426989/150645252-ab6d69ee-b982-45b5-ac57-538670d69f38.mp4)             
 
 +86 大陆 号码注册 解除 私聊 限制的操作：   
