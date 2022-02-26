@@ -1,3 +1,5 @@
+# 网关代理/旁路由
+
 ![图片](https://user-images.githubusercontent.com/73426989/150648408-d74c9acd-e70a-46ea-b190-cf3de26c9368.png)               
 
 网关代理即所谓“旁路由”模式下，国内的网站访问失败或缓慢。                 
