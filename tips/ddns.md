@@ -1,4 +1,6 @@
-![DDNS - 副本](https://user-images.githubusercontent.com/73426989/150645579-8bb1eab3-f55d-49f9-b386-7dbabc0b15b1.png)                
+# DDNS阿里云
+
+![DDNS](https://user-images.githubusercontent.com/73426989/150645579-8bb1eab3-f55d-49f9-b386-7dbabc0b15b1.png)                
 
 动态DNS脚本插件下使用阿里云DDNS              
 我默认你已经谷歌看过相关教程，所以省略一些废话。这个教程只是提重点，和日后再用时帮助你快速恢复记忆。                      
