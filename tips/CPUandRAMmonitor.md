@@ -1,3 +1,5 @@
+# 查看系统CPU\RAM等资源实时负载情况命令
+
 ![photo_2022-01-22_22-25-45](https://user-images.githubusercontent.com/73426989/150642451-2dd0e63b-f73c-4f38-b29a-410c58aab8cc.jpg)             
 
 查看系统CPU\RAM等资源实时负载情况命令：          
