@@ -5,7 +5,7 @@
 
 ## OpenWrt_Pro专区    
 
-支持：x64 * r2s * r4s * r2c         
+支持：x64 * r2c * r2s * r4s          
   
 * [OpenWrt_Pro](https://t.me/openwrt_p)
 
@@ -17,7 +17,7 @@
 
 ## OpenWrt_Air专区        
 
-支持：acrh17 * 竞斗云2 * ax6 * ax3600 * ac2100 * k2p * 新3
+支持：ax6 * ax3600 * ac2100 * k2p * 新3 * acrh17 * 竞斗云2
 
 * [OpenWrt_Air](https://t.me/openwrt_a)             
 
