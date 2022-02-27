@@ -44,8 +44,8 @@
 
 ### 容器相关
 
-* [PVE 7.0-9、10、11、13（显示CPU主频、CPU温度、NVME硬盘温度、SATA硬盘温度）](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/Ecs5ETyuagFBg_UakUPvtw0B9ubYaE8i7q55OffxvK5wMA?e=7tgPV2)       
-* [ESXi-7.0U3C-19193900-SYSIN-NUC-USB-NVME-SLIC_2.6（8125 nvme i225）](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/EdDTukXIT2REh9w_Yww2_ywBD9wfafsxI5wuhG_3n9VzGA?e=Ptxhoo)      
+* [PVE 7.0-9、10、11、13](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/Ecs5ETyuagFBg_UakUPvtw0B9ubYaE8i7q55OffxvK5wMA?e=7tgPV2) （显示CPU主频、CPU温度、NVME硬盘温度、SATA硬盘温度）            
+* [ESXi-7.0U3C-19193900-SYSIN-NUC-USB-NVME-SLIC_2.6](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/EdDTukXIT2REh9w_Yww2_ywBD9wfafsxI5wuhG_3n9VzGA?e=Ptxhoo) （8125 nvme i225）      
 * [ESXi-6.7.0-Update3B-2.5Gbps-customized](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/EfQnLOjegrVOpm22T0Sm42MB7E3uObuLg9Y1LOJXi_3-yw?e=Avy8Cn)     
 * [cn_windows_10_pro_lite_21h1_x64](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/EQP8VVFniwFDuc8RJyIwIIIBYDb6DgYcEj4oUTYpus_dng?e=hLypsb)      
 * [cn_windows_7_professional_with_sp2_x64_dvd_2020_01_14](https://h8cs-my.sharepoint.com/:u:/g/personal/od577_365a1_me/EauYlQmCtWFJsa7eU7k6IogBWUW9eq7vtkHn0YRU_Ic2WA?e=hkIeVL)        
