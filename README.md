@@ -148,6 +148,7 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [下载telegram群文件的正确姿势](./tips/RuHeZhengQueXiaZaiTGFile.md)         
 * [win10Home家庭版安装HyperV虚拟机](./tools/hyperVinstall.md)      
 * [东东的屏保怎么弄的](./tips/DDMacHaiBao.md)    
+* [孤儿网络昵称集合](https://github.com/boduoyejieyi666/NMSL_Nicknames/blob/main/NMSL_Nicknames)
 
 ## 常用命令、操作区
 
