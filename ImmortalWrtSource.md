@@ -1,6 +1,7 @@
 # ImmortalWrt试运营软件源上线          
 
-* [ImmortalWrt固件检索](https://firmware-selector.immortalwrt.org/)
+* ImmortalWrt固件检索
+[https://firmware-selector.immortalwrt.org](https://firmware-selector.immortalwrt.org/)
 
 * 目前仅提供对master分支的支持，获取地址：        
 [https://downloads.immortalwrt.org](https://downloads.immortalwrt.org)       
