@@ -21,7 +21,7 @@
 
 * [OpenWrt_Air](https://t.me/openwrt_a)             
 
-## ImmortalWrt软件源
+## ImmortalWrt软件源专区
 
 支持：所有主流设备（最精简固件基础上自由安装ipk）          
 
