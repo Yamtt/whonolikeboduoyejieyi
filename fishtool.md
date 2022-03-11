@@ -1,15 +1,15 @@
 ![1](https://user-images.githubusercontent.com/73426989/121067643-e0606880-c7fd-11eb-8673-6a8747853c20.png)     
 
-# 授人以鱼不如授人以渔        
-
-这里是简短的编译OpenWrt入门秘籍。目前除了[ImmortalWrt](https://github.com/immortalwrt/immortalwrt) 缝合好了几大爬墙插件可供直接make编译，其他的Op分叉都或注释或分离或隐藏了。    
+# 授人以鱼不如授人以渔
 
 ## 选择op分叉主体         
 
-推荐：[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)       
-备选：[Lienol/openwrt](https://github.com/Lienol/openwrt)           
+推荐：[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)        
 
-## 需要手动添加ssrp、passwall、openclash等插件      
+备选1：[ImmortalWrt](https://github.com/immortalwrt/immortalwrt)       
+备选2：[Lienol/openwrt](https://github.com/Lienol/openwrt)     
+
+## 如果需要手动添加ssrp、passwall、openclash等插件      
 
 在拉取的op分叉主体的源码的feeds.conf.default文件中添加：    
 
@@ -37,7 +37,7 @@ src-git lienol https://github.com/Lienol/openwrt-package
 src-git kenzo https://github.com/kenzok8/openwrt-packages     
 src-git small https://github.com/kenzok8/small
 ```
-这是神秘网友kenzok8复制揉合的插件库，如果用了这个库，那么上面推荐的几个库都可以不要了            
+！！！这是神秘网友kenzok8复制揉合的插件库，如果用了这个库，那么上面推荐的几个库都可以不要了            
               
 ## 接下来三步走
 
