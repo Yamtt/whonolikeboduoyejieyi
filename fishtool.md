@@ -32,6 +32,12 @@ src-git OpenClash https://github.com/vernesong/OpenClash
 src-git lienol https://github.com/Lienol/openwrt-package
 ```
 这是Lienol的package库，里面有一些lede里没有的包      
+
+```
+src-git kenzo https://github.com/kenzok8/openwrt-packages     
+src-git small https://github.com/kenzok8/small
+```
+这是神秘网友kenzok8复制揉合的插件库，如果用了这个库，那么上面推荐的几个库都可以不要了            
               
 ## 接下来三步走
 
