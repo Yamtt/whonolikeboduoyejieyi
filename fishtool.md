@@ -20,6 +20,7 @@ src-git helloworld https://github.com/fw876/helloworld
 
 ```
 src-git passwall https://github.com/xiaorouji/openwrt-passwall
+src-git passwall https://github.com/xiaorouji/openwrt-passwall/tree/luci
 ```
 这是passwall插件的最新库地址，库名、包名、菜单名目前统一，之前菜单名是 科学上网、...还有什么名字瞎几把改的我忘了...      
 
