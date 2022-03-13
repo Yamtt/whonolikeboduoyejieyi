@@ -14,7 +14,7 @@
 在拉取的op分叉主体的源码的feeds.conf.default文件中添加：    
 
 ```
-src-git helloworld https://github.com/fw876/helloworld     
+src-git helloworld https://github.com/fw876/helloworld.git;master     
 ```
 ↑这是ssrp插件的最新库地址，只是库名字叫helloworld，包名字其实还是ssrplus这个比，安装好后是界面是shadowsocksR plus + 这个比，千变万化我是你爸...      
 
