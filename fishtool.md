@@ -21,9 +21,13 @@ src-git helloworld https://github.com/fw876/helloworld
 ```
 src-git passwall https://github.com/xiaorouji/openwrt-passwall.git;packages
 src-git luci-app-passwall https://github.com/xiaorouji/openwrt-passwall.git;luci
-src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2
 ```
 这是passwall插件的最新库地址，库名、包名、菜单名目前统一，之前菜单名是 科学上网、...还有什么名字瞎几把改的我忘了...      
+
+```
+src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2.git;main
+```
+这是passwall2插件的最新库地址，属于passwall的变种        
 
 ```
 src-git OpenClash https://github.com/vernesong/OpenClash
