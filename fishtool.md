@@ -21,7 +21,7 @@ src-git helloworld https://github.com/fw876/helloworld
         
 
 ```
-src-git OpenClash https://github.com/vernesong/OpenClash
+src-git OpenClash https://github.com/vernesong/OpenClash.git;master
 ```
 ↑这是openclash插件的最新库地址       
 
