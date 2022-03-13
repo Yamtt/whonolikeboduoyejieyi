@@ -16,34 +16,34 @@
 ```
 src-git helloworld https://github.com/fw876/helloworld     
 ```
-这是ssrp插件的最新库地址，只是库名字叫helloworld，包名字其实还是ssrplus这个比，安装好后是界面是shadowsocksR plus + 这个比，千变万化我是你爸...      
+↑这是ssrp插件的最新库地址，只是库名字叫helloworld，包名字其实还是ssrplus这个比，安装好后是界面是shadowsocksR plus + 这个比，千变万化我是你爸...      
 
 ```
 src-git passwall https://github.com/xiaorouji/openwrt-passwall.git;packages
 src-git luci-app-passwall https://github.com/xiaorouji/openwrt-passwall.git;luci
 ```
-这是passwall插件的最新库地址，库名、包名、菜单名目前统一，之前菜单名是 科学上网、...还有什么名字瞎几把改的我忘了...      
+↑这是passwall插件的最新库地址，库名、包名、菜单名目前统一，之前菜单名是 科学上网、...还有什么名字瞎几把改的我忘了...      
 
 ```
 src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2.git;main
 ```
-这是passwall2插件的最新库地址，属于passwall的变种        
+↑这是passwall2插件的最新库地址，属于passwall的变种        
 
 ```
 src-git OpenClash https://github.com/vernesong/OpenClash
 ```
-这是openclash插件的最新库地址       
+↑这是openclash插件的最新库地址       
 
 ```
 src-git lienol https://github.com/Lienol/openwrt-package
 ```
-这是Lienol的package库，里面有一些lede里没有的包      
+↑这是Lienol的package库，里面有一些lede里没有的包      
 
 ```
 src-git kenzo https://github.com/kenzok8/openwrt-packages     
 src-git small https://github.com/kenzok8/small
 ```
-！！！这是神秘网友kenzok8复制揉合的插件库，如果用了这个库，那么上面推荐的几个库都可以不要了            
+↑这是神秘网友kenzok8复制揉合的插件库，如果用了这个库，那么上面推荐的几个库都可以不要了！！！            
               
 ## 接下来三步走
 
