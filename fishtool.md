@@ -19,8 +19,8 @@ src-git helloworld https://github.com/fw876/helloworld
 这是ssrp插件的最新库地址，只是库名字叫helloworld，包名字其实还是ssrplus这个比，安装好后是界面是shadowsocksR plus + 这个比，千变万化我是你爸...      
 
 ```
-src-git passwall https://github.com/xiaorouji/openwrt-passwall
-src-git passwall https://github.com/xiaorouji/openwrt-passwall/tree/luci
+src-git passwall https://github.com/xiaorouji/openwrt-passwall.git;packages
+src-git luci-app-passwall https://github.com/xiaorouji/openwrt-passwall.git;luci
 ```
 这是passwall插件的最新库地址，库名、包名、菜单名目前统一，之前菜单名是 科学上网、...还有什么名字瞎几把改的我忘了...      
 
