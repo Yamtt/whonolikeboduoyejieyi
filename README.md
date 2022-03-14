@@ -269,8 +269,8 @@ opkg install /tmp/tmp/*.ipk --force-depends
 
 ## About区    
 
-* [参考消息频道](https://t.me/openwrt_cn)
-* [党支部群组](https://t.me/+bykW8ZpJax4wYzc1) (固件内测群)                
+* [参考消息频道](https://t.me/openwrt_cn) (本博客内容变化提醒)
+* [党支部群组](https://t.me/+bykW8ZpJax4wYzc1) (固件内测、本博客内容建议)                
 
 ![1](https://user-images.githubusercontent.com/73426989/121067818-1a316f00-c7fe-11eb-9978-4fe568193fd4.png)          
 
