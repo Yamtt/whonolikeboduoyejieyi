@@ -1,40 +1,23 @@
 ![1](https://user-images.githubusercontent.com/73426989/121067643-e0606880-c7fd-11eb-8673-6a8747853c20.png)     
 
-# 授人以鱼不如授人以渔
+# 编译入门秘籍（授人以鱼不如授人以渔）
 
 ## 选择op分叉主体         
 
 推荐：[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)        
-
 备选1：[ImmortalWrt](https://github.com/immortalwrt/immortalwrt)       
 备选2：[Lienol/openwrt](https://github.com/Lienol/openwrt)     
 
-## 如果需要手动添加ssrp、passwall、openclash等插件      
+## 如果需要手动添加ssrp、passwall、openclash等各种丰富插件      
 
 在拉取的op分叉主体的源码的feeds.conf.default文件中添加：    
-
-```
-src-git helloworld https://github.com/fw876/helloworld.git;master     
-```
-↑这是ssrp插件的最新库地址，只是库名字叫helloworld，包名字其实还是ssrplus这个比，安装好后是界面是shadowsocksR plus + 这个比，千变万化我是你爸...      
-
-        
-
-```
-src-git OpenClash https://github.com/vernesong/OpenClash.git;master
-```
-↑这是openclash插件的最新库地址       
-
-```
-src-git lienol https://github.com/Lienol/openwrt-package
-```
-↑这是Lienol的package库，里面有一些lede里没有的包      
 
 ```
 src-git kenzo https://github.com/kenzok8/openwrt-packages     
 src-git small https://github.com/kenzok8/small
 ```
-↑这是神秘网友kenzok8复制揉合的插件库，如果用了这个库，那么上面推荐的几个库都可以不要了！！！            
+
+↑这是神秘网友kenzok8复制揉合的插件库，各种插件可以说是应有尽有，简直是小白福音，多star和issue提建议可以促使作者积极维护哦     
               
 ## 接下来三步走
 
