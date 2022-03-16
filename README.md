@@ -121,7 +121,8 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [最强文件分享服务器FileBrowser](./tips/FileBrowserNB.md)
 * [挂在路由上的百度网盘客户端](./tips/BaiDuWangPan.md)             
 * [家里自建一个ssr服务端](./tips/ssrMDBServer.md)       
-* [WAN口丢失后重建](./tips/CreWAN.md)       
+* [WAN口丢失后重建](./tips/CreWAN.md)      
+* [WAN口灯不亮/WAN口无网络连接](./tips/WANfail.md)      
 * [自定义登陆界面背景](./tips/argonPic.md)        
 
 
