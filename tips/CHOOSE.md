@@ -6,7 +6,7 @@
 * rootfs ：不带引导，可自行定义用grub或者syslinux来引导      
 * combined ：带引导 
 * .img ：物理机使用
-* .vmdk ：虚拟机 ESXI/VMware 使用
+* .vmdk ：虚拟机 ESXi/VMware 使用
 * .qcow2 ：虚拟机 PVE 使用
 * .vdi ：虚拟机 VirtualBox 使用
 * .vhdx ：虚拟机 Hyper-V 使用
