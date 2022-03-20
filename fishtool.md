@@ -48,8 +48,8 @@ make menuconfig
 都勾了。         
 
 * LuCI > Themes >          
-一般不建议勾选bootstrap、material之外的主题。       
-如果你非要argon那么注意：lede源码里的argon是非常简陋的基础版argon，不是你想要的老竭力魔改版argon，请注意勾选 argonne 、argonV3 等字眼的主题，他们才是老竭力修改版argon。        
+一般不建议勾选bootstrap、material之外的主题       
+`如果你非要argon那么注意：lede源码里的argon是非常简陋的基础版argon，不是你想要的老竭力魔改版argon，请注意勾选 argonne 、argonV3 等字眼的主题，他们才是老竭力修改版argon`        
 
 * LuCI > Applications >         
 MTK MIPS架构的几个K2P、新三什么的必选mtwifi否则没无线信号,如果没看到mtwifi选项那就无所谓了，可能大雕调整了mtwifi的位置并且默认选上了，你不用操心了。          
