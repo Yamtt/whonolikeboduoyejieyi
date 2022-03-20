@@ -22,7 +22,7 @@ src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
 ```
 
-↑这是神秘网友kenzok8复制揉合的插件库，各种插件可以说是应有尽有，简直是小白福音，多star和issue提建议可以促使作者积极维护哦     
+↑这是神秘网友kenzok8（eS..）复制揉合的插件库，各种插件可以说是应有尽有，简直是小白福音，多star和issue提建议可以促使作者积极维护哦     
               
 ## 接下来三步走
 
