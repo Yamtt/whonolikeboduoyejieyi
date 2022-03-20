@@ -132,7 +132,7 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 * [Chrome浏览器强制转换LuCI页面为暗黑主题](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=zh-CN)      
 * [路由下主机数据传输速率查看](./tips/HostSpeedMonitor.md)     
 * [系统资源消耗实时监控查看](./tips/CPUandRAMmonitor.md)     
-* [编译入门秘籍](./fishtool.md)    
+* [**编译入门秘籍**](./fishtool.md)    
 * [几种加密算法下传输速度测试脚本](./sh/ss_test.md)      
 * [单线程测速](http://speed.cloudflare.com)       
 * [日志粘贴分享网站避免直发群内刷屏](https://paste.debian.net/)
