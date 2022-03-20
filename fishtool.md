@@ -15,7 +15,8 @@
 
 ## 如果需要手动添加ssrp、passwall、openclash等各种丰富插件      
 
-(此插件库“不保证”所有插件适配所有版本LuCI，推荐coolsnowwolf/lede可确保最大程度兼容)在拉取的op分叉主体的源码的feeds.conf.default文件中添加：    
+注意：此插件库“不保证”所有插件适配所有版本LuCI，推荐coolsnowwolf/lede可确保最大程度兼容。       
+在拉取的op分叉主体的源码的feeds.conf.default文件中添加：    
 
 ```
 src-git kenzo https://github.com/kenzok8/openwrt-packages     
