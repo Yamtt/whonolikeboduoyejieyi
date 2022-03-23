@@ -21,11 +21,11 @@
 
 * [OpenWrt_Air](https://t.me/openwrt_a)             
 
-## ImmortalWrt软件源专区
+## ImmortalWrt官方专区
 
 支持：所有主流设备（最精简固件基础上自由安装ipk）          
 
-* [ImmortalWrt试运营软件源](./ImmortalWrtSource.md)                         
+* [ImmortalWrt官方](./ImmortalWrtSource.md)                         
 
 ## eSir专区
 
