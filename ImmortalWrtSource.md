@@ -15,6 +15,7 @@
 
 
 
-[此页面消息同步自原地址](https://t.me/ctcgfw_openwrt_discuss/461245)                
+此页面消息同步自 [原地址](https://t.me/ctcgfw_openwrt_discuss/461245)     
+
 [返回主页](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)           
 
