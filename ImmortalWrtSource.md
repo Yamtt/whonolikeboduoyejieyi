@@ -1,5 +1,7 @@
 # ImmortalWrt官方试运营软件源上线          
 
+`此软件源 不保证 兼容 非ImmortalWrt官方发行固件`
+
 ## 获取地址
 
 * 主站 [downloads.immortalwrt.org](https://downloads.immortalwrt.org)  
