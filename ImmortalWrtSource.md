@@ -11,7 +11,7 @@
 
 ## 获取地址
 
-[firmware-selector.immortalwrt.org](https://firmware-selector.immortalwrt.org/)
+* [firmware-selector.immortalwrt.org](https://firmware-selector.immortalwrt.org/)
 
 
 
