@@ -1,6 +1,6 @@
 # ImmortalWrt 系统-软件包 安装插件       
 
-`此教程仅适用于 ImmortalWrt官方发行固件、使用ImmortalWrt任意分支编译而来的固件(编译者未改动分支的LuCI版本与Linux内核版本对应关系)`
+`此教程仅适用于（但也不保证绝对成功） ImmortalWrt官方发行固件、使用ImmortalWrt任意分支编译而来的固件(编译者未改动分支的LuCI版本与Linux内核版本对应关系)`
 
 ![1](https://user-images.githubusercontent.com/73426989/159654047-456ed964-d2f4-4cfe-b1bf-43bfd9b55440.png)          
 如上图，来到 系统-软件包 ，先点击 更新列表 同步软件源，等待过程如下图：            
