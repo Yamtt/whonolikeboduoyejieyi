@@ -111,7 +111,7 @@ echo 0xDEADBEEF > /etc/config/google_fu_mode
 
 ### 其他插件相关         
 
-* [](./JBipk.md)
+* [ImmortalWrt 系统-软件包 安装插件](./JBipk.md)
 * [填入字符后保存应用为何不生效](./tips/saveFail.md)
 * [后台LuCI页面显示异常报错](./tips/luciViewBUG.md)
 * [网关代理"旁路由"下访问国内网站缓慢甚至失败](./tips/PangLuYouGNM.md)       
