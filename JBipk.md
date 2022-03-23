@@ -14,7 +14,7 @@
 
 关闭passed提示窗口，页面会自动刷新出所有包列表，然后你在 筛选器 中输入你要的软件包，比如 `diskman` `docker` ，列表会筛选出所有名称带有你输入关键词的包，如下图：    
 ![4](https://user-images.githubusercontent.com/73426989/159657326-9ad23704-bee9-4396-ad30-56f03e2882fb.png)    
-一般都是按照顺序安装：本体程序、依赖程序、luci程序、lcui翻译程序（如果你不知道依赖程序有哪些，可以直接先尝试安装luci程序，报错时日志会告诉你需要先安装过哪些依赖程序）           
+一般都是按照顺序安装：依赖程序、本体程序、luci程序、lcui翻译程序（如果你不知道依赖程序有哪些，可以直接先尝试安装luci程序，报错时日志会告诉你需要先安装过哪些依赖程序）           
 
 
 [返回主页](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)          
