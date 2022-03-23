@@ -1,13 +1,28 @@
-# ImmortalWrt试运营软件源上线          
+# ImmortalWrt官方试运营软件源上线          
 
-* ImmortalWrt固件检索        
+## 获取地址
+
+* [主站](https://downloads.immortalwrt.org)  
+* [镜像（CloudFlare）](immortalwrt.kyarucloud.moe)
+* [镜像（腾讯云）](mirrors.vsean.net/openwrt)      
+
+```
+#主站
+https://downloads.immortalwrt.org 
+#镜像（CloudFlare）
+immortalwrt.kyarucloud.moe
+#镜像（腾讯云）
+mirrors.vsean.net/openwrt 
+```
+
+* 此外，由于此前 opde 大量文件容易卡死列表程序，现在单独移动至：                  
+[https://opde.immortalwrt.org](https://opde.immortalwrt.org)          
+
+## ImmortalWrt官方发行固件检索        
 [https://firmware-selector.immortalwrt.org](https://firmware-selector.immortalwrt.org/)
 
-* 目前仅提供对master分支的支持，获取地址：        
-[https://downloads.immortalwrt.org](https://downloads.immortalwrt.org)       
 
-* 此外，由于此前 opde 大量文件容易卡死列表程序，现在单独移动至：         
-[https://opde.immortalwrt.org](https://opde.immortalwrt.org)           
+[此页面消息同步自原地址](https://t.me/ctcgfw_openwrt_discuss/461245)                
 
 
 [返回主页](https://boduoyejieyi666.github.io/whonolikeboduoyejieyi/)           
